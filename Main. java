@@ -1,5 +1,5 @@
 public class MainApp extends AccontView{
 piblic static void main(String[] args){
-lunch(args)
+launch(args)
 }
 }
